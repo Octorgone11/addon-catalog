@@ -5,7 +5,7 @@
     "author": "NomDeLAuteur",
     "description": "Description courte de l'addon.",
     "imageUrl": "https://exemple.com/image.png",
-    "downloadUrl": "https://exemple.com/mon_addon.mcaddon",
+    "downloadUrl": "https://github.com/xRed303/test_download/raw/refs/heads/main/testGIT.mcaddon",
     "sourceUrl": "https://exemple.com/page-de-l-addon",
     "minecraftVersion": "1.21"
   }
