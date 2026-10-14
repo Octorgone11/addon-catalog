@@ -8,5 +8,16 @@
     "downloadUrl": "https://github.com/xRed303/test_download/raw/refs/heads/main/testGIT.mcaddon",
     "sourceUrl": "https://exemple.com/page-de-l-addon",
     "minecraftVersion": "1.21"
+  },
+  {
+    "id": 2,
+    "name": "TEST FORGE",
+    "author": "NomDeLAuteur",
+    "description": "Description courte de l'addon.",
+    "imageUrl": "https://exemple.com/image.png",
+    "downloadUrl": "https://www.curseforge.com/minecraft-bedrock/addons/verity-bedrock-edition/download/8902437",
+    "sourceUrl": "https://exemple.com/page-de-l-addon",
+    "minecraftVersion": "1.21"
   }
+  
 ]
