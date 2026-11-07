@@ -68,6 +68,16 @@
     "downloadUrl": "https://edge.mcpedl.com/files/9497/319/Skyblock-V102.mcworld?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
     "sourceUrl": "https://mcpedl.com/skyblockorigins",
     "minecraftVersion": "1.26.60"
+  },
+  {
+    "id": 8,
+    "name": "Lucky Skyblock V5",
+    "author": "INTOR",
+    "description": "Skyblock! Conquer, build, buy and sell! Find the lucky tree and earn bonuses! Map has: 5 biomes; Jungle, Taiga, Savannah, Nether and End / shop / old lava factory / 2 spawners. This world contains 3 packs: traders, void protector and lucky blocks!",
+    "imageUrl": "https://media.forgecdn.net/attachments/1242/869/v5-5-world_icon-jpeg.jpeg",
+    "downloadUrl": "https://edge.mcpedl.com/files/9426/456/Lucky_Skyblock_V5.17_ft_XylaBun.mcworld?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/lucky-tree-skyblock",
+    "minecraftVersion": "1.26.3"
   }
   
 ]
