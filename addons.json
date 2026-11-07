@@ -78,6 +78,27 @@
     "downloadUrl": "https://edge.mcpedl.com/files/9426/456/Lucky_Skyblock_V5.17_ft_XylaBun.mcworld?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
     "sourceUrl": "https://mcpedl.com/lucky-tree-skyblock",
     "minecraftVersion": "1.26.3"
+  },
+  {
+    "id": 9,
+    "name": "Mini Golems+",
+    "author": "LokiMC",
+    "description": "Mini Golems+ adds pocket-sized golems to Minecraft Bedrock: Mini Iron, Mini Sculk, Mini Sculk Catalyst and Mini Warden Golem. Craft a Mini Golem Head with a Mini Golem Spell and a Carved Pumpkin, then build them like a copper golem.",
+    "imageUrl": "https://media.forgecdn.net/attachments/2163/977/mini-golems-png.png",
+    "downloadUrl": "https://edge.mcpedl.com/files/9501/292/Mini-Golems-1.0.3.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/mini-golems-extra-golems",
+    "minecraftVersion": "1.21.50"
+  },
+  {
+    "id": 10,
+    "name": "Better Sleeping",
+    "author": "OrionCrow1",
+    "description": "Better Sleeping gives you a random buff every time you finish sleeping, reminding you how important sleep really is.",
+    "imageUrl": "https://media.forgecdn.net/attachments/2083/426/orion-png.png",
+    "downloadUrl": "https://edge.mcpedl.com/files/9499/631/better-sleeping-1.1.mcpack?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/better-sleeping/",
+    "minecraftVersion": "1.17"
   }
+  
   
 ]
