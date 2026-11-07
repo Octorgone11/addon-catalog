@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Mon premier addon",
-    "author": "NomDeLAuteur",
-    "description": "Description courte de l'addon.",
-    "imageUrl": "https://exemple.com/image.png",
-    "downloadUrl": "https://github.com/xRed303/test_download/raw/refs/heads/main/testGIT.mcaddon",
-    "sourceUrl": "https://exemple.com/page-de-l-addon",
+    "name": "Keep-Levels",
+    "author": "mittens4all",
+    "description": "This behavior pack uses scoreboards to detect player experience levels. Experience levels are not lost after dying and remain upon respawn.",
+    "imageUrl": "https://static.planetminecraft.com/files/image/minecraft/data-pack/2021/698/14123378-test_l.webp",
+    "downloadUrl": "https://github.com/mittens4all/Keep-Levels/raw/refs/heads/main/Keep_Levels.mcpack",
+    "sourceUrl": "https://github.com/mittens4all/Keep-Levels",
     "minecraftVersion": "1.21"
   },
   {
