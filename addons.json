@@ -28,6 +28,16 @@
     "downloadUrl": "https://edge.mcpedl.com/files/9495/634/APSDAddon1.0.5.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
     "sourceUrl": "https://mcpedl.com/apsd-a-pocket-storage-dimension",
     "minecraftVersion": "1.26.50"
+  },
+  {
+    "id": 4,
+    "name": "ChopPop",
+    "author": "lete114",
+    "description": "A Minecraft Bedrock addon that chops down entire trees instantly when you sneak and break a single log. Supports fast leaf decay, axe enchantments, and even works on Nether stems — just hold an axe, sneak, and chop. Pop! The whole tree drops.",
+    "imageUrl": "https://github.com/mcbe-mods/ChopPop/blob/main/src/behavior_pack/pack_icon.png?raw=true",
+    "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/ChopPop.mcaddon",
+    "sourceUrl": "https://github.com/mcbe-mods/ChopPop",
+    "minecraftVersion": "1.21.80"
   }
   
 ]
