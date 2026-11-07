@@ -38,6 +38,16 @@
     "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/ChopPop.mcaddon",
     "sourceUrl": "https://github.com/mcbe-mods/ChopPop",
     "minecraftVersion": "1.21.80"
+  },
+  {
+    "id": 5,
+    "name": "Custom Trees - Capitator and Achievements Friendly",
+    "author": "LArageboy",
+    "description": "Never have to go mining and get lost again! Custom trees spawn in various locations and allow for not only varied colors, but also various ores and fruits. Pack icon doesn't accurately portray the trees, they are too huge for a pic!",
+    "imageUrl": "https://media.forgecdn.net/attachments/2022/981/mcpedl-jpg.jpg",
+    "downloadUrl": "https://edge.mcpedl.com/files/9496/890/CustomTreesAddon2.0.57.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/custom-trees-capitator-and-achievements-friendly",
+    "minecraftVersion": "26.50"
   }
   
 ]
