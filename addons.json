@@ -18,6 +18,16 @@
     "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/Vanilla%20Quality%20of%20Life%20by%20AllensCreations%20(V1.2.5).mcaddon",
     "sourceUrl": "https://exemple.com/page-de-l-addon",
     "minecraftVersion": "1.21"
+  },
+  {
+    "id": 3,
+    "name": "APSD - A Pocket Storage Dimension",
+    "author": "LArageboy",
+    "description": "One item, a storage warehouse of over 2.5 million items, APSD Vault is a single block & fits in your hand. Place it (Overworld, Nether or End), use it, pick it up, place it again, and the same warehouse is waiting inside with everything where you left it.",
+    "imageUrl": "https://media.forgecdn.net/attachments/2121/184/pack-icon-render-ai-jpg.jpg",
+    "downloadUrl": "https://edge.mcpedl.com/files/9495/634/APSDAddon1.0.5.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/apsd-a-pocket-storage-dimension",
+    "minecraftVersion": "26.50"
   }
   
 ]
