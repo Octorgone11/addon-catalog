@@ -118,6 +118,16 @@
     "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/treeandvein5.0.mcpack",
     "sourceUrl": "https://github.com/Keyyard/Minecraft-Tree-Capitator-and-Vein-Miner-Addon/tree/main",
     "minecraftVersion": "1.19.60"
+  },
+  {
+    "id": 13,
+    "name": "The Sift Dimension | Add-On",
+    "author": "trotamundos872",
+    "description": "The Sift is the next great new dimension for Minecraft; this is a recreation in beta.",
+    "imageUrl": "https://media.forgecdn.net/attachments/1999/925/fdsadadvvx-webp.webp",
+    "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/TheSift.mcaddon",
+    "sourceUrl": "https://www.trmc-addons.com/add-ons/the-sift/",
+    "minecraftVersion": "1.26.10"
   }
   
   
