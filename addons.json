@@ -108,6 +108,16 @@
     "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/PlayerPickup.mcaddon",
     "sourceUrl": "https://mcpedl.com/pick-up-carry-addon/",
     "minecraftVersion": "1.26.60"
+  },
+  {
+    "id": 12,
+    "name": "Tree Capitator + Vein Miner Addon",
+    "author": "Keyyard",
+    "description": "This addon mod for Minecraft making resource gathering more efficient and convenient. Tired of chopping down trees block by block? Try Tree Capitator! Instantly fell entire trees with one click. And mining ore chains got you down? Use Vein Miner for instant mining! Now, both tools are combined into one. Activate them separately as needed. Gather resources faster and easier. Get the ultimate tree and ore mining tool today and enjoy effortless gameplay! Note: Always remember to use game modifications responsibly and in accordance with the game's terms and conditions.",
+    "imageUrl": "https://st2.mcpedl.com/submissions/26958/112/tc-vm-copy_1-520x245.png",
+    "downloadUrl": "https://api.mcpedl.com/api/download/776555/?r=eyJpdiI6ImV5MG5SWXpFR3RSQXlGUVFpK1duNVE9PSIsInZhbHVlIjoidkJqaVdtbXBLaGx6dmRVRTg2b3ZUWWlWV090elNrdGZCdDN3R0NtL3BDa3hNUVp2cjh3VTRQdTlBbU5FUFVaWXhJZWpDeTJ2a3gxQ2ZhM21Vc1J5R2FmYlJlUG1vUGlrY0RUb1JDVjhQU1hVZlF2ekQ2bjloN2R6WFNDL2pMWnhJUlN2K0grbzNvdUlCNXlxdURpL0dZNUZDZkt1U09LL3hmaE1hZmd6YW1XMEE5dnhQNnYzS2JTMjNMQ0IxaStMU2lGaC9TMVF0ZytxanVqMVhYcGVIQWZ4Z2FicUI4V01Ta1FydzFRa0FGQXJzOVJ1cFJLcFZOa3hNK1paWHlYS2IvNkdRYTdXanZ0cnhtUWY0b2doY0RSV2tKcnJDTGR0U3lacERzKytNTzYwaEExempER1ErdWthQncwQXJSU1RjTE1nekZVQml2ZjBIZ0hrL2c5ZHl5M1JIemQ4VzNXb0VTWTVOYXg1ZEd4SC96RUREWktqdnhRTGZiV0hSeTcyYStFd1g1UjkxdVNIUUtQcUc4SzBVR1B1bkg5aFl5anNocjNLNWJPb2ROdz0iLCJtYWMiOiI5OGQ1MzAzODZhMzlhNmMxMTRjYWQ4ZWUzYmI3MGYwNzAyMGEwMWEyZDJkMzcyNTUwNTQxMTM4MzJmOTA2NjdiIiwidGFnIjoiIn0=&ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/tree-capacitor-addon-lumberjack",
+    "minecraftVersion": "1.19.60"
   }
   
   
