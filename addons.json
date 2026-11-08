@@ -98,6 +98,16 @@
     "downloadUrl": "https://edge.mcpedl.com/files/9499/631/better-sleeping-1.1.mcpack?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
     "sourceUrl": "https://mcpedl.com/better-sleeping/",
     "minecraftVersion": "1.17"
+  },
+  {
+    "id": 11,
+    "name": "𝗣𝗶𝗰𝗸 𝘂𝗽 & 𝗖𝗮𝗿𝗿𝘆",
+    "author": "sirob",
+    "description": "Pick up the player, mob, or chest with items and carry it to the right place! All mobs, players and blocks with items are carryable! Even mobs or blocks from other addons!",
+    "imageUrl": "https://st2.mcpedl.com/submissions/57504/121/logo15modified_1-520x245.png",
+    "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/PlayerPickup.mcaddon",
+    "sourceUrl": "https://mcpedl.com/pick-up-carry-addon/",
+    "minecraftVersion": "1.26.60"
   }
   
   
