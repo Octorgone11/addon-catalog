@@ -7,7 +7,7 @@
     "imageUrl": "https://static.planetminecraft.com/files/image/minecraft/data-pack/2021/698/14123378-test_l.webp",
     "downloadUrl": "https://github.com/mittens4all/Keep-Levels/raw/refs/heads/main/Keep_Levels.mcpack",
     "sourceUrl": "https://github.com/mittens4all/Keep-Levels",
-    "minecraftVersion": "1.21"
+    "minecraftVersion": "1.21.0"
   },
   {
     "id": 2,
@@ -97,7 +97,7 @@
     "imageUrl": "https://media.forgecdn.net/attachments/2083/426/orion-png.png",
     "downloadUrl": "https://edge.mcpedl.com/files/9499/631/better-sleeping-1.1.mcpack?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
     "sourceUrl": "https://mcpedl.com/better-sleeping/",
-    "minecraftVersion": "1.17"
+    "minecraftVersion": "1.17.0"
   },
   {
     "id": 11,
@@ -128,7 +128,79 @@
     "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/TheSift.mcaddon",
     "sourceUrl": "https://www.trmc-addons.com/add-ons/the-sift/",
     "minecraftVersion": "1.26.10"
+  },
+  {
+    "id": 14,
+    "name": "Ambi (Horror Ambience)",
+    "author": "SantuYT",
+    "description": "With this official AmbiMod extension, you can transform the atmosphere of your Minecraft world into one of suspense and extreme horror.",
+    "imageUrl": "https://media.forgecdn.net/attachments/2042/446/mcpedle-horror-1-jpg.jpg",
+    "downloadUrl": "https://edge.mcpedl.com/files/9512/490/AmbiHorror-1.1.2.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/ambi-horror-ambience/",
+    "minecraftVersion": "1.21.60"
+  },
+  {
+    "id": 15,
+    "name": "Asta Devil Union",
+    "author": "EMasha",
+    "description": "Asta Devil Union gives you a free Black Netherite Sword and grants additional abilities while you are holding it.",
+    "imageUrl": "https://media.forgecdn.net/attachments/1958/791/black-clover-png.png",
+    "downloadUrl": "https://edge.mcpedl.com/files/9512/936/Asta-Devil-Union-2.2.mcpack?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/asta-devil-union/",
+    "minecraftVersion": "1.20.30"
+  },
+  {
+    "id": 16,
+    "name": "Mob Head With ability [Achievement friendly]",
+    "author": "Zorrocraft1",
+    "description": "Unleash the power of mobs with craftable heads, each granting unique abilities. Recipes are petty hard, so you have a motive to grant more",
+    "imageUrl": "https://media.forgecdn.net/attachments/2018/211/20261006_204317.jpg",
+    "downloadUrl": "https://edge.mcpedl.com/files/9512/37/MHeads2.0.2.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/mhead/",
+    "minecraftVersion": "1.21.80"
+  },
+   {
+    "id": 17,
+    "name": "Immersive Aircraft: Bedrock Port (Official)",
+    "author": "Draco12191712",
+    "description": "A set of vanilla style, customizable and upgradable aircraft, from biplanes to airships. Original Java mod by Conczin",
+    "imageUrl": "https://media.forgecdn.net/attachments/2045/483/immersive-aircraft-banner-jpg.jpg",
+    "downloadUrl": "https://edge.mcpedl.com/files/9511/725/Immersive_Aircraft_Bedrock_Port_v1.3.0.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/immersive-aircraft-bedrock-port-official/",
+    "minecraftVersion": "1.26.0"
+  },
+  {
+    "id": 18,
+    "name": "Amethyst Drill Pickaxe",
+    "author": "SomeUnwantedFeelings",
+    "description": "A clean and lightweight Minecraft Bedrock resource pack designed to improve your gameplay experience. Easy to install and compatible with Minecraft Bedrock Edition. — Made by @youngsocialsociety (TikTok)",
+    "imageUrl": "https://media.forgecdn.net/attachments/2168/568/9864-png.png",
+    "downloadUrl": "https://edge.mcpedl.com/files/9513/895/AmethystDrillPickaxe_v1.0.3.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/amethyst-drill-pickaxe/",
+    "minecraftVersion": "1.26.0"
+  },
+  {
+    "id": 19,
+    "name": "Dying Drops OP Items",
+    "author": "Verocrft",
+    "description": "Chaotic death-reward addon for Minecraft Bedrock where every death drops random OP loot, from enchanted netherite gear to beacons and dragon eggs.",
+    "imageUrl": "https://media.forgecdn.net/attachments/2012/626/1a62d6b4-292c-47a3-a8c9-b0c25b81cc7f-jpg.jpg",
+    "downloadUrl": "https://edge.mcpedl.com/files/9513/142/Dying-Drops-OP-Items.mcpack?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/dying-drops-op-items/",
+    "minecraftVersion": "1.26.30"
+  },
+  {
+    "id": 20,
+    "name": "Lucky Block (Achievements-Friendly)",
+    "author": "HowardAddon",
+    "description": "Howard Lucky Block will give you random items ranging from uncommon to rare to ultra rare.",
+    "imageUrl": "https://media.forgecdn.net/attachments/1746/235/mcpedl-png.png",
+    "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/howard_lucky_block%201.3.mcaddon",
+    "sourceUrl": "https://mcpedl.com/howard-lucky-block/",
+    "minecraftVersion": "1.26.30"
   }
+  
+  
   
   
 ]
