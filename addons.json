@@ -238,7 +238,49 @@
     "downloadUrl": "https://edge.mcpedl.com/files/9359/211/Lucky-block-SkyaBlock-v1.5.mcworld?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
     "sourceUrl": "https://mcpedl.com/lucky-block-skyblock/",
     "minecraftVersion": "1.26.50"
-  }
+  },
+  {
+    "id": 25,
+    "name": "Saiyan Block (Dragon Ball)",
+    "author": "SyronStudios",
+    "description": "A Dragon Ball addon featuring epic transformations, powerful abilities, intense battles, and exciting adventures.",
+    "imageUrl": "https://media.forgecdn.net/attachments/2063/711/sprite-0dda1-png.png",
+    "downloadUrl": "https://edge.mcpedl.com/files/9531/845/Saiyan-Block-v0.2.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/saiyan-block/",
+    "minecraftVersion": "1.21.0"
+  },
+  {
+    "id": 26,
+    "name": "Forgotten Giantlands",
+    "author": "ndnhyd",
+    "description": "The portal to the dimension is a 5 by 5 upright square that you light with a wither rose made of Glitchstone, which is like a pink version of glowstone that occurs in clumps of 9 to 27 blocks across all dimensions. the dimension is called the Forgotten lands, where there are islands floating everywhere, suspended above the void. All the leaves, trees and wood and even grass are grey. The only mob is the Giant, like a giant zombie around 20 blocks tall that attacks the player. no ores spawn except coal, quartz ore and ancient debris. The quartz ore, instead of looking like netherrack surrounding it, looks like it has stone instead. Structures like huge spirals made of glitchstone occur commonly here.",
+    "imageUrl": "https://images.creativemode.net/gallery-images/3696eec0-16cf-4b8c-ba33-00c4b047f123/IMG_4993-Vo3pXz3MpQupwfn0h213tvScaNljvD.PNG?class=gallery640",
+    "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/forgotten-giantlands-pdj3ukhe.mcaddon",
+    "sourceUrl": "https://creativemode.net/mod/forgotten-giantlands-pdj3ukhe",
+    "minecraftVersion": "1.26.50"
+  },
+  {
+    "id": 27,
+    "name": "Brainrot Realm",
+    "author": "bobiscool12322",
+    "description": "make a dimension that is a brainrot dimension and when you get in it there is tung tung tung and 67 kid and the 67 brainrot and a lot more brainrots",
+    "imageUrl": "https://images.creativemode.net/gallery-images/4d0033e6-4f3a-4ba9-8cd9-95fed3380e6b/371a9a28-76ce-49f5-be85-3fdb1bfe4ea3/generated-preview.png?class=gallery640",
+    "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/brainrot-realm-itzxlaha.mcaddon",
+    "sourceUrl": "https://creativemode.net/mod/brainrot-realm-itzxlaha",
+    "minecraftVersion": "1.26.50"
+  },
+  {
+    "id": 28,
+    "name": "The one who watches",
+    "author": "00thegman",
+    "description": "A pale watcher stalks the night, hunting anyone who dares look its way.",
+    "imageUrl": "https://images.creativemode.net/gallery-images/fd3769e9-3a50-4852-93b8-2e296cdd7637/16B1BD7D-A55F-4434-A9AA-C39C31CD106B-GbXxXJ3tNgr9F2G1EHodxK6PlGeWug.png?class=gallery640",
+    "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/pale-nightstalker-bf66elix.mcaddon",
+    "sourceUrl": "https://creativemode.net/mod/pale-nightstalker-bf66elix",
+    "minecraftVersion": "1.26.50"
+  },
+  
+  
   
   
   
