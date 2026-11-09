@@ -218,6 +218,26 @@
     "downloadUrl": "https://edge.mcpedl.com/files/9524/681/Jumping-Enchants-2.4.0.mcpack?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
     "sourceUrl": "https://mcpedl.com/jumping-enchants/",
     "minecraftVersion": "1.21.90"
+  },
+  {
+    "id": 23,
+    "name": "Lucky blocks",
+    "author": "Effect99DL",
+    "description": "What they've been asking for for so long, a Lucky Block addon that generates structures, mobs, drops, potion effects and much more, plus not only was one lucky block added, but seven more blocks.",
+    "imageUrl": "https://media.forgecdn.net/attachments/1250/152/mcpedl-png.png",
+    "downloadUrl": "https://edge.mcpedl.com/files/6757/389/Lucky%20blocks%20(1.21.90%2b).mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/lucky-blocks-effect99-addon/",
+    "minecraftVersion": "1.21.20"
+  },
+  {
+    "id": 24,
+    "name": "Lucky Block Skyblock",
+    "author": "NamanStudios",
+    "description": "Lucky Block Skyblock is a 4-player multiplayer survival map featuring 4 unique islands. Choose your team, break Lucky Blocks, collect loot, survive, and become the ultimate champion.",
+    "imageUrl": "https://media.forgecdn.net/attachments/1837/191/picsart_26-08-02_13-20-59-335-jpg.jpg",
+    "downloadUrl": "https://edge.mcpedl.com/files/9359/211/Lucky-block-SkyaBlock-v1.5.mcworld?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/lucky-block-skyblock/",
+    "minecraftVersion": "1.26.50"
   }
   
   
