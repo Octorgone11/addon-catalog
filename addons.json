@@ -198,6 +198,26 @@
     "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/howard_lucky_block%201.3.mcaddon",
     "sourceUrl": "https://mcpedl.com/howard-lucky-block/",
     "minecraftVersion": "1.26.30"
+  },
+  {
+    "id": 21,
+    "name": "XP = OP",
+    "author": "HumanlyInfinite",
+    "description": "Every XP level turns you into a God! Unlock stacking status buffs & auto-enchanted crafting from Lvl 1 to 200. Can you reach max power?",
+    "imageUrl": "https://media.forgecdn.net/attachments/2039/33/gemini_generated_image_vlo9zivlo9zivlo9-jpg.jpg",
+    "downloadUrl": "https://edge.mcpedl.com/files/9524/838/XP-OP-1.0.8.mcaddon?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/xp-op/",
+    "minecraftVersion": "1.26.0"
+  },
+  {
+    "id": 22,
+    "name": "Jumping Enchants",
+    "author": "BebuPlayz",
+    "description": "Every jump randomly enchants a random item in your inventory. Survive the chaos and defeat the Ender Dragon.",
+    "imageUrl": "https://media.forgecdn.net/attachments/1675/862/mcpedl.png",
+    "downloadUrl": "https://edge.mcpedl.com/files/9524/681/Jumping-Enchants-2.4.0.mcpack?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/jumping-enchants/",
+    "minecraftVersion": "1.21.90"
   }
   
   
