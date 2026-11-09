@@ -279,6 +279,26 @@
     "sourceUrl": "https://creativemode.net/mod/pale-nightstalker-bf66elix",
     "minecraftVersion": "1.26.50"
   },
+  {
+    "id": 29,
+    "name": "Pixels Vein Miner",
+    "author": "PixelToad",
+    "description": "Vein Miner addon speeds up resource gathering in Minecraft by allowing players to break an entire vein of connected ore blocks instantaneously by destroying just one.",
+    "imageUrl": "https://media.forgecdn.net/attachments/2156/425/thumbnail-png.png",
+    "downloadUrl": "https://edge.mcpedl.com/files/9533/289/Vein-Miner-V0.1.1.mcpack?ft=d38aca95ed5ce12a78eed71ec66f90d2&bd=o7wkd1ts4f",
+    "sourceUrl": "https://mcpedl.com/pixels-vein-miner",
+    "minecraftVersion": "1.26.60"
+  },
+  {
+    "id": 30,
+    "name": "Syntax's Weaponry [Guns Addon]",
+    "author": "Studio38",
+    "description": "Time to grab your favorite gun and some ammo to take on hostile mobs with ease, or gather your friends for an epic battle royale. Whatever kind of combat experience you want to create, Syntax's Weaponry delivers the ultimate arsenal.",
+    "imageUrl": "https://media.forgecdn.net/attachments/2074/758/curseforge-webp.webp",
+    "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/Syntax's%20Weaponry%20(V0.18.2).mcaddon",
+    "sourceUrl": "https://mcpedl.com/syntax-weaponry/",
+    "minecraftVersion": "1.21.0"
+  }
   
   
   
