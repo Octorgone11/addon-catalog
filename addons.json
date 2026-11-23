@@ -298,8 +298,17 @@
     "downloadUrl": "https://github.com/Octorgone11/addon-catalog/raw/refs/heads/main/Syntax's%20Weaponry%20(V0.18.2).mcaddon",
     "sourceUrl": "https://mcpedl.com/syntax-weaponry/",
     "minecraftVersion": "1.21.0"
+  },
+  {
+    "id": 31,
+    "name": "Dino world 3D",
+    "author": "Craftingmodss",
+    "description": "Dino Addon brings custom dinosaurs to Minecraft Bedrock with unique models, sounds, behaviors, and rideable creatures. Explore the world, tame dinosaurs, and enjoy a prehistoric adventure with land and flying species. 🦖🦕🔥",
+    "imageUrl": "https://media.forgecdn.net/attachments/2044/71/dino-world-3d-png.png",
+    "downloadUrl": "https://edge.mcpedl.com/files/9774/306/Dino_World_3D_v1_0_2.mcaddon?ft=6a05466755b3b5e623578487fe644edd&bd=k36vx83qcv",
+    "sourceUrl": "https://mcpedl.com/dino-world-3d/",
+    "minecraftVersion": "1.26.0"
   }
-  
   
   
   
